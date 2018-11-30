@@ -5,6 +5,7 @@ A mobile application for finding and sharing recipes, searchable via categories.
 
 Food is a focal point in all our lives.  Cooking not only sustains life, but bridges cultures and fosters interpersonal relationships like no other creative median can. Food4thought  is an app that will allow users to have acess to recipies from regions  all over the world at thier disposal. With the touch of button a user will have a recipe for butter chicken to cook for thier partner on an aniverserary or the best way to cook a turkey on thanksgiving. We belive human live to eat not eat to live and Food4Thought will allow users to  have  the gastronomic universe in thier pockets .
 
+
 ## Collaborators
 
 [Mikael Abehsera](https://github.com/MikaelAbehsera)
@@ -12,6 +13,7 @@ Food is a focal point in all our lives.  Cooking not only sustains life, but bri
 [Charlotte Haras](https://github.com/char55)
 
 [Terence Hawes](https://github.com/Terence1991)
+
 
 ## Setup
 
@@ -28,15 +30,12 @@ Food is a focal point in all our lives.  Cooking not only sustains life, but bri
 11. open the port specified in a browser window 
 12. scan the QR code using the expo app and wait for the app to bundle, after a few seconds, the login page will appear.
 
-## Demos of the app
-
-![alt text](url link to pic on github)
-
 
 ## Dependencies
 
 - Node 5.10.x or above
 - NPM 3.8.x or above
+
 
 ## Features
 
@@ -102,9 +101,7 @@ Food is a focal point in all our lives.  Cooking not only sustains life, but bri
     * Instructions
       * to be submitted one at a time
       * Instructions are automatically numbered
-      
-  
-
+     
 
 ## User Stories
 
@@ -118,5 +115,12 @@ Food is a focal point in all our lives.  Cooking not only sustains life, but bri
 * user should be able to view themselves 
 
 
-# Demo's
+## Demos of the app
 
+![Profile Page](https://github.com/char55/FoodSpace/blob/master/readMeMedia/Screenshot_20181126-183315_Expo.jpg?raw=true)
+
+![seach catalogue](https://github.com/char55/FoodSpace/blob/master/readMeMedia/Screenshot_20181128-215853_Expo.jpg?raw=true)
+
+![recipes details](https://github.com/char55/FoodSpace/blob/master/readMeMedia/Screenshot_20181128-215959_Expo.jpg?raw=true)
+
+![comments page](https://github.com/char55/FoodSpace/blob/master/readMeMedia/Screenshot_20181128-220025_Expo.jpg)
